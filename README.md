@@ -1,6 +1,6 @@
 # deliverpros
 
-A new Flutter application.
+DeliverPros  Shopping platform.
 
 ## Getting Started
 
